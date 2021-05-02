@@ -1,4 +1,4 @@
-# devandpaige 🐈💻🌱
+# devandapaige 🐈💻🌱
 ## Amanda Nelson  
 💻 Full Stack Javascript Developer  
 🎨 Sticker and Digital Media Creative  
