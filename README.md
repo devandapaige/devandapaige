@@ -1,9 +1,9 @@
 # devandpaige 🐈💻🌱
-Amanda Nelson
-💻 Full Stack Javascript Developer
-🎨 Sticker and Digital Media Creative
-🌊 Float Therapy Advocate
-🌲 Irish Pines Tree Farm Co-Owner 
+## Amanda Nelson  
+💻 Full Stack Javascript Developer  
+🎨 Sticker and Digital Media Creative  
+🌊 Float Therapy Advocate  
+🌲 Irish Pines Tree Farm Co-Owner  
 * [LinkedIn](https://www.linkedin.com/in/devandapaige/)
 * [Instagram](https://www.instagram.com/devandapaige/)
 * [Twitter](https://twitter.com/andapaige)
