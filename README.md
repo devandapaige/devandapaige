@@ -12,12 +12,11 @@
 * A custom [Full-Stack App](https://emeraldhealingarts.vercel.app/) for my friend Emerald Healing Arts with React, Redux, and Node JS frameworks. (I also helped bring Ashley's vision to life through her [website](https://emeraldhealingarts.net/) theme and look via CSS hacking Squarespace)
 * Website branding at Marketing at [The Float Zone](https://myfloatzone.com) through Squarespace and their [Instagram](http://instagram.com/myfloatzone)
 * Helping local healers with their websites in a freelance/trading capacity.
-* My portfolio 😅 - which should be *finally* finished by the end of May 2021
 * Labs volunteer work at Lambda School prior to my offical graduation July 26th, 2021. 
-* Various Salesforce Certifications
+* My own [portfolio](http://www.amanda-nelson.com) as a Full-Stack PERN application.
 
 ## Languages, Frameworks, and Software I'm using:
-HTML | CSS | Javascript | React | React Native | Redux | Node JS | Jest JS | Cypress.io | PostgreSQL | SQLite | VSCode | Git Bash | Insomnia | TablePlus | Postman Agent | Python | PyCharm | Heroku | Netlify | Figma | Salesforce
+HTML | CSS | Javascript | React | React Native | Redux | Node JS | Jest JS | Cypress.io | PostgreSQL | SQLite | VSCode | Git Bash | Insomnia | TablePlus | Postman Agent | Python | PyCharm | Heroku | Netlify | Figma | Whimsical | Canva | PicMonkey
 
 ## How did I get into tech?
 * I come from the time of custom MySpace themes and Neopets sites that taught me to get creative with how I use the computer and browsers. I've always had a fascination for website developement, but never really knew where to go with my passion.
