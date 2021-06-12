@@ -9,7 +9,9 @@
 * [Twitter](https://twitter.com/andapaige)
 
 ## Currently working on:
-* A custom [Full-Stack App](https://emeraldhealingarts.vercel.app/) for my friend Emerald Healing Arts with React, Redux, and Node JS frameworks. (I also helped bring Ashley's vision to life through her [website](https://emeraldhealingarts.net/) theme and look via CSS hacking Squarespace)
+* A custom [Full-Stack App](https://emeraldhealingarts.vercel.app/) for my friend Emerald Healing Arts with React, Redux, and Node JS frameworks. 
+  * I also helped bring Ashley's vision to life through her [website](https://emeraldhealingarts.net/) theme and look via CSS hacking Squarespace
+  * And in June 2021 she'll also have a matching landing page for all of her social links.
 * Website branding at Marketing at [The Float Zone](https://myfloatzone.com) through Squarespace and their [Instagram](http://instagram.com/myfloatzone)
 * Helping local healers with their websites in a freelance/trading capacity.
 * Labs volunteer work at Lambda School prior to my offical graduation July 26th, 2021. 
