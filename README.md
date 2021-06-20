@@ -18,7 +18,9 @@
 * My own [portfolio](http://www.amanda-nelson.com) as a Full-Stack PERN application.
 
 ## Languages, Frameworks, and Software I'm using:
-HTML | CSS | Javascript | React | React Native | Redux | Node JS | Jest JS | Cypress.io | PostgreSQL | SQLite | VSCode | Git Bash | Insomnia | TablePlus | Postman Agent | Python | PyCharm | Heroku | Netlify | Figma | Whimsical | Canva | PicMonkey
+**Frontend:** VSCode, Git Bash, HTML, CSS, Javascript, React, Bootstrap, Reactstrap, Redux, Basic Python, Cypress.io, Jest
+**Backend:** Node.js, SQLite, PostgreSQL, Environment Variables, DbDesigner, Insomnia, TablePlus, Postman, Heroku
+**Design:** Figma, Whimsical, Responsible & Scalable Web Design, Canva, PicMonkey, ShowIt, Squarespace
 
 ## How did I get into tech?
 * I come from the time of custom MySpace themes and Neopets sites that taught me to get creative with how I use the computer and browsers. I've always had a fascination for website developement, but never really knew where to go with my passion.
