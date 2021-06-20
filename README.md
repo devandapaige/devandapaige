@@ -19,7 +19,9 @@
 
 ## Languages, Frameworks, and Software I'm using:
 **Frontend:** VSCode, Git Bash, HTML, CSS, Javascript, React, Bootstrap, Reactstrap, Redux, Basic Python, Cypress.io, Jest
+
 **Backend:** Node.js, SQLite, PostgreSQL, Environment Variables, DbDesigner, Insomnia, TablePlus, Postman, Heroku
+
 **Design:** Figma, Whimsical, Responsible & Scalable Web Design, Canva, PicMonkey, ShowIt, Squarespace
 
 ## How did I get into tech?
