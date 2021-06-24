@@ -1,5 +1,4 @@
-# devandapaige 🐈💻🌱
-## Amanda Nelson  
+# Amanda Nelson 🐈💻🌱  
 💻 Full Stack Javascript Developer  
 🎨 Sticker and Digital Media Creative  
 🌊 Float Therapy Advocate  
@@ -16,8 +15,8 @@
 * Team collaboration work at Lambda School pn a non-profit project prior to my offical graduation July 26th, 2021. 
 
 ## Languages, Frameworks, and Software I'm using:
-**Frontend:** VSCode, Git Bash, HTML, CSS, Javascript, React, Bootstrap, Reactstrap, Redux, Basic Python, Cypress.io, Jest
+* **Frontend:** VSCode, Git Bash, HTML, CSS, Javascript, React, Bootstrap, Reactstrap, Redux, Basic Python, Cypress.io, Jest
 
-**Backend:** Node.js, SQLite, PostgreSQL, Environment Variables, DbDesigner, Insomnia, TablePlus, Postman, Heroku
+* **Backend:** Node.js, SQLite, PostgreSQL, Environment Variables, DbDesigner, Insomnia, TablePlus, Postman, Heroku
 
-**Design:** Figma, Whimsical, Responsible & Scalable Web Design, Canva, PicMonkey, ShowIt, Squarespace
+* **Design:** Figma, Whimsical, Responsible & Scalable Web Design, Canva, PicMonkey, ShowIt, Squarespace
