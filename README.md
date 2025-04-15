@@ -1,46 +1,65 @@
-# Amanda Nelson 🐍🔮
+🐍 Amanda Nelson | Pythoness Programmer 🔮
 
-## Welcome to My GitHub!
+    "Where technical expertise meets neurodivergent creativity"
 
-Hello! I'm Amanda, a Senior Software Engineer with a strong background in software development, digital marketing, and management. With over 13 years of combined experience, I create tech solutions that feel intuitive, not intimidating. My approach blends cutting-edge technology with mindful, sustainable practices that honor both business goals and neurological wiring.
+Hello, I'm Amanda! 👋
 
-### 🛠 Skills and Technologies
+I'm a Senior Software Engineer who transforms complex technical challenges into elegant, accessible solutions. With 13+ years of experience spanning software development, digital marketing, and management, I bring a unique perspective to every project.
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Redux, Next.js, Tailwind, Material UI, Storybook
-- **Backend:** Node.js, Express, GraphQL, Python, Ruby on Rails
-- **Databases:** PostgreSQL, MongoDB, DynamoDB
-- **Cloud:** AWS (Lambda, S3 Buckets), Azure, Google Cloud, Digital Ocean
-- **Testing & Deployment:** Cypress, Jest, Docker, GitHub Actions, Jenkins, CI/CD
-- **Design & Development:** Figma, Canva, Bootstrap, Wireframing, Design Systems
-- **Methodologies:** Agile, Scrum, Kanban, Design Thinking
+Available for new opportunities starting April 2025
+What Sets Me Apart
 
-### 🔍 Current Focus
+As a neurodivergent engineer, I offer:
+🧩 Pattern Recognition
 
-- **Available for Contract Work:** Starting April 2025
-- **Studying:** Software Architecture and Software Management
-- **Tech Execution Coaching:** Helping businesses transform their systems without tech anxiety
-- **Craft Services:** Creating custom stickers, vinyl art, and print materials for local businesses
+I quickly identify system inefficiencies and optimization opportunities that others might miss, leading to more elegant solutions.
+🔍 Attention to Detail
 
-### 📈 Recent Projects
+My natural tendency to notice small details means fewer bugs, more comprehensive test coverage, and higher quality code.
+🌐 Systems Thinking
 
-- **Happi Home Calendar feature integration with Cronofy:** Deployed cutting-edge projects using Node.js, Vue.js, TypeScript, Docker, and Supabase
-- **Accessibility Initiatives:** Pioneered inclusive design practices ensuring seamless experiences for all users
-- **Custom Workflow Automation:** Created N8N-powered solutions for streamlined business processes
-- **Digital Ocean Infrastructure:** Optimized cloud infrastructure for performance and scalability
+I excel at understanding how components interconnect, making me particularly effective at architecture design and debugging complex systems.
+🚀 Hyperfocus
 
-### 🧠 My Approach
+When engaged with challenging problems, I can maintain intense concentration until reaching optimal solutions.
+🎨 Creative Problem-Solving
 
-I believe creativity and anxiety exist on the same spectrum—when we reduce one, we amplify the other. My work intentionally:
-- Eliminates ambiguity through clear communication
-- Provides consistent structure with predictable interactions
-- Removes distractions with clean designs
-- Offers responsive feedback throughout the process
+I approach technical challenges from unexpected angles, often finding innovative solutions that conventional thinking might overlook.
+Technical Toolkit
 
-### 📫 How to Reach Me
+My technical skills include frontend technologies like HTML, CSS, JavaScript, TypeScript, React, Redux, and Next.js; backend technologies including Node.js, Express, GraphQL, Python, and Ruby on Rails; database expertise in PostgreSQL, MongoDB, and DynamoDB; cloud services such as AWS, Azure, Google Cloud, and Digital Ocean; testing frameworks like Cypress and Jest; DevOps tools including Docker, GitHub Actions, and Jenkins; design tools like Figma and Canva; and methodologies including Agile, Scrum, Kanban, and Design Thinking.
+Recent Impact
+📅 Stealth AI Company
 
-- **Email:** jobs@amanda-nelson.com
-- **LinkedIn:** [linkedin.com/in/pythonessprogrammer](https://www.linkedin.com/in/pythonessprogrammer)
-- **Website:** [pythonessprogrammer.com](https://www.pythonessprogrammer.com)
-- **Location:** New Kent, Virginia (Remote only)
+As Senior Software Engineer, I established robust CI/CD pipelines using GitHub Actions, significantly improving deployment reliability and team velocity. I also implemented the Cronofy API integration with their Node.js backend, creating a foundation for scalable calendar functionality in preparation for future user growth.
+♿ Accessibility Initiative at Zappos
 
-Feel free to explore my repositories and reach out for collaboration opportunities, tech coaching, or to discuss how we might work together!
+Developed critical accessibility improvements for Zappos.com's search functionality, ensuring screen readers properly announced product badge information like "new" and "bestseller." Implemented comprehensive testing protocols to verify screen reader compatibility, helping make the shopping experience more inclusive for visually impaired users.
+⚙️ Workflow Automation
+
+Designed and implemented personal business automation systems using n8n and Make.com, creating efficient workflows that have expanded my reach to thousands across various platforms. These systems handle repetitive tasks automatically, freeing my time for creative work while maintaining consistent engagement with my audience. Currently developing shareable workflow templates to help others automate their creative businesses.
+My Collaboration Style
+
+I believe creativity and anxiety exist on the same spectrum—when we reduce one, we amplify the other. I thrive in environments that offer:
+
+    Clear documentation and well-defined requirements
+
+    Structured communication with regular check-ins
+
+    Asynchronous options for deep thinking and processing
+
+    Quiet focus time for deep work and problem-solving
+
+    Direct feedback delivered with clarity and kindness
+
+Let's Create Something Amazing
+
+I'm passionate about using technology to solve real problems while creating sustainable, maintainable systems that grow with your business.
+
+    📧 jobs@amanda-nelson.com
+
+    🔗 linkedin.com/in/pythonessprogrammer
+
+    🌐 pythonessprogrammer.com
+
+    📍 New Kent, Virginia (Remote only)
