@@ -1,65 +1,70 @@
-🐍 Amanda Nelson | Pythoness Programmer 🔮
+# 🐍 Amanda Nelson | Pythoness Programmer 🔮
 
-    "Where technical expertise meets neurodivergent creativity"
+> "Where technical expertise meets neurodivergent creativity"
 
-Hello, I'm Amanda! 👋
+## Hello, I'm Amanda! 👋
 
 I'm a Senior Software Engineer who transforms complex technical challenges into elegant, accessible solutions. With 13+ years of experience spanning software development, digital marketing, and management, I bring a unique perspective to every project.
 
-Available for new opportunities starting April 2025
-What Sets Me Apart
+**Available for new opportunities starting April 2025**
+
+---
+
+## What Sets Me Apart
 
 As a neurodivergent engineer, I offer:
-🧩 Pattern Recognition
 
+### 🧩 Pattern Recognition
 I quickly identify system inefficiencies and optimization opportunities that others might miss, leading to more elegant solutions.
-🔍 Attention to Detail
 
+### 🔍 Attention to Detail
 My natural tendency to notice small details means fewer bugs, more comprehensive test coverage, and higher quality code.
-🌐 Systems Thinking
 
+### 🌐 Systems Thinking
 I excel at understanding how components interconnect, making me particularly effective at architecture design and debugging complex systems.
-🚀 Hyperfocus
 
+### 🚀 Hyperfocus
 When engaged with challenging problems, I can maintain intense concentration until reaching optimal solutions.
-🎨 Creative Problem-Solving
 
+### 🎨 Creative Problem-Solving
 I approach technical challenges from unexpected angles, often finding innovative solutions that conventional thinking might overlook.
-Technical Toolkit
+
+---
+
+## Technical Toolkit
 
 My technical skills include frontend technologies like HTML, CSS, JavaScript, TypeScript, React, Redux, and Next.js; backend technologies including Node.js, Express, GraphQL, Python, and Ruby on Rails; database expertise in PostgreSQL, MongoDB, and DynamoDB; cloud services such as AWS, Azure, Google Cloud, and Digital Ocean; testing frameworks like Cypress and Jest; DevOps tools including Docker, GitHub Actions, and Jenkins; design tools like Figma and Canva; and methodologies including Agile, Scrum, Kanban, and Design Thinking.
-Recent Impact
-📅 Stealth AI Company
 
+## Recent Impact
+
+### 📅 Stealth AI Company
 As Senior Software Engineer, I established robust CI/CD pipelines using GitHub Actions, significantly improving deployment reliability and team velocity. I also implemented the Cronofy API integration with their Node.js backend, creating a foundation for scalable calendar functionality in preparation for future user growth.
-♿ Accessibility Initiative at Zappos
 
+### ♿ Accessibility Initiative at Zappos
 Developed critical accessibility improvements for Zappos.com's search functionality, ensuring screen readers properly announced product badge information like "new" and "bestseller." Implemented comprehensive testing protocols to verify screen reader compatibility, helping make the shopping experience more inclusive for visually impaired users.
-⚙️ Workflow Automation
 
+### ⚙️ Workflow Automation
 Designed and implemented personal business automation systems using n8n and Make.com, creating efficient workflows that have expanded my reach to thousands across various platforms. These systems handle repetitive tasks automatically, freeing my time for creative work while maintaining consistent engagement with my audience. Currently developing shareable workflow templates to help others automate their creative businesses.
-My Collaboration Style
+
+---
+
+## My Collaboration Style
 
 I believe creativity and anxiety exist on the same spectrum—when we reduce one, we amplify the other. I thrive in environments that offer:
 
-    Clear documentation and well-defined requirements
+- **Clear documentation** and well-defined requirements
+- **Structured communication** with regular check-ins
+- **Asynchronous options** for deep thinking and processing
+- **Quiet focus time** for deep work and problem-solving
+- **Direct feedback** delivered with clarity and kindness
 
-    Structured communication with regular check-ins
+---
 
-    Asynchronous options for deep thinking and processing
-
-    Quiet focus time for deep work and problem-solving
-
-    Direct feedback delivered with clarity and kindness
-
-Let's Create Something Amazing
+## Let's Create Something Amazing
 
 I'm passionate about using technology to solve real problems while creating sustainable, maintainable systems that grow with your business.
 
-    📧 jobs@amanda-nelson.com
-
-    🔗 linkedin.com/in/pythonessprogrammer
-
-    🌐 pythonessprogrammer.com
-
-    📍 New Kent, Virginia (Remote only)
+- 📧 [jobs@amanda-nelson.com](mailto:jobs@amanda-nelson.com)
+- 🔗 [linkedin.com/in/pythonessprogrammer](https://www.linkedin.com/in/pythonessprogrammer)
+- 🌐 [pythonessprogrammer.com](https://www.pythonessprogrammer.com)
+- 📍 New Kent, Virginia (Remote only)
