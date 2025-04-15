@@ -6,7 +6,7 @@
 
 I'm a Senior Software Engineer who transforms complex technical challenges into elegant, accessible solutions. With 13+ years of experience spanning software development, digital marketing, and management, I bring a unique perspective to every project.
 
-**Available for new opportunities starting April 2025**
+**Available for new opportunities starting May 2025**
 
 ---
 
@@ -68,3 +68,7 @@ I'm passionate about using technology to solve real problems while creating sust
 - 🔗 [linkedin.com/in/pythonessprogrammer](https://www.linkedin.com/in/pythonessprogrammer)
 - 🌐 [pythonessprogrammer.com](https://www.pythonessprogrammer.com)
 - 📍 New Kent, Virginia (Remote only)
+
+Made it this far? Let's chat! [calendar link](https://calendar.amanda-nelson.com/30min)
+
+Work With Me [calendar link](https://calendar.amanda-nelson.com)
