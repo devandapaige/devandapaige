@@ -62,9 +62,12 @@ I believe creativity and anxiety exist on the same spectrum—when we reduce one
 
 ## Let's Create Something Amazing
 
-I'm passionate about using technology to solve real problems while creating sustainable, maintainable systems that grow with your business.
+I believe the best work comes from clear communication and mutual respect. I'm currently dedicating my energy to my primary projects but am always interested in hearing from fellow builders and potential partners who share a similar ethos.
 
-- 📧 [jobs@amanda-nelson.com](mailto:jobs@amanda-nelson.com)
-- 🔗 [linkedin.com/in/pythonessprogrammer](https://www.linkedin.com/in/pythonessprogrammer)
-- 🌐 [pythonessprogrammer.com](https://www.pythonessprogrammer.com)
-- 📍 New Kent, Virginia (Remote only)
+If you have a project that aligns with my work in automation, accessibility, or creative tooling, please reach out via email. A brief, thoughtful introduction is the best way to start a conversation.
+
+
+- **Email:** [jobs@amanda-nelson.com](mailto:jobs@amanda-nelson.com)
+- **LinkedIn:** [linkedin.com/in/pythonessprogrammer](https://www.linkedin.com/in/pythonessprogrammer)
+- **Website:** [pythonessprogrammer.com](https://www.pythonessprogrammer.com)
+- **Location:** New Kent, Virginia (Remote only)
