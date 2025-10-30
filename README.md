@@ -68,5 +68,3 @@ I'm passionate about using technology to solve real problems while creating sust
 - 🔗 [linkedin.com/in/pythonessprogrammer](https://www.linkedin.com/in/pythonessprogrammer)
 - 🌐 [pythonessprogrammer.com](https://www.pythonessprogrammer.com)
 - 📍 New Kent, Virginia (Remote only)
-
-Made it this far? Let's chat! [calendar link](https://calendar.amanda-nelson.com)
