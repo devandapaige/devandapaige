@@ -6,8 +6,6 @@
 
 I'm a Senior Software Engineer who transforms complex technical challenges into elegant, accessible solutions. With 13+ years of experience spanning software development, digital marketing, and management, I bring a unique perspective to every project.
 
-**Available for new opportunities starting May 2025**
-
 ---
 
 ## What Sets Me Apart
