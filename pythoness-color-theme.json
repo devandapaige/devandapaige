@@ -1,0 +1,100 @@
+{
+    "name": "Pythoness Programmer",
+    "type": "dark",
+    "colors": {
+      "editor.background": "#2E3D2A",
+      "editor.foreground": "#F4f1DE",
+      "activityBar.background": "#442B48",
+      "activityBar.foreground": "#FFFFFF",
+      "sideBar.background": "#263322",
+      "sideBar.foreground": "#F4f1DE",
+      "sideBarSectionHeader.background": "#2E3D2A",
+      "statusBar.background": "#442B48",
+      "statusBar.foreground": "#F4f1DE",
+      "titleBar.activeBackground": "#442B48",
+      "titleBar.activeForeground": "#FFFFFF",
+      "list.activeSelectionBackground": "#00A6FB",
+      "list.activeSelectionForeground": "#FFFFFF",
+      "list.hoverBackground": "#3A4D35",
+      "editorGroupHeader.tabsBackground": "#2E3D2A",
+      "tab.activeBackground": "#3A4D35",
+      "tab.inactiveBackground": "#2E3D2A",
+      "tab.activeBorder": "#32d24d",
+      "focusBorder": "#00A6FB",
+      "button.background": "#00A6FB",
+      "button.foreground": "#FFFFFF",
+      "dropdown.background": "#442B48",
+      "input.background": "#263322"
+    },
+    "tokenColors": [
+      {
+        "scope": ["comment"],
+        "settings": {
+          "foreground": "#F4f1DE90",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": ["string"],
+        "settings": {
+          "foreground": "#D8B9F7"
+        }
+      },
+      {
+        "scope": ["constant.numeric", "constant.language"],
+        "settings": {
+          "foreground": "#00A6FB"
+        }
+      },
+      {
+        "scope": [
+          "keyword",
+          "storage.type",
+          "storage.modifier"
+        ],
+        "settings": {
+          "foreground": "#32d24d",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": [
+          "entity.name.function",
+          "support.function",
+          "entity.name.class",
+          "entity.name.type",
+          "entity.other.inherited-class",
+          "support.class"
+        ],
+        "settings": {
+          "foreground": "#FF39BC"
+        }
+      },
+      {
+        "scope": ["variable.parameter"],
+        "settings": {
+          "foreground": "#FFFFFF",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": ["entity.other.attribute-name", "variable.language"],
+        "settings": {
+          "foreground": "#00A6FB"
+        }
+      },
+      {
+        "scope": ["punctuation", "meta.brace"],
+        "settings": {
+          "foreground": "#F4f1DE"
+        }
+      },
+      {
+        "scope": ["entity.name.tag"],
+        "settings": {
+          "foreground": "#32d24d"
+        }
+      }
+    ]
+  }
+  
