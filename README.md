@@ -64,7 +64,7 @@ I believe the best work comes from clear communication and mutual respect. I'm c
 
 If you have a project that aligns with my work in automation, accessibility, or creative tooling, please reach out via email. A brief, thoughtful introduction is the best way to start a conversation.
 
-**To get updates about my projects please sign up for my newsletter:** [newsletter.pythonessprogrammer.com](newsletter.pythonessprogrammer.com) 
+**To get updates about my projects please sign up for my newsletter:** [newsletter.pythonessprogrammer.com](https://newsletter.pythonessprogrammer.com) 
 
 
 - **Email:** [jobs@amanda-nelson.com](mailto:jobs@amanda-nelson.com)
