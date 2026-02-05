@@ -4,7 +4,7 @@
 
 ## Hello, I'm Amanda! 👋
 
-I'm a Senior Software Engineer who transforms complex technical challenges into elegant, accessible solutions. With 13+ years of experience spanning software development, digital marketing, and management, I bring a unique perspective to every project.
+I'm a Senior Software Engineer who transforms complex technical challenges into elegant, accessible solutions. With 14+ years of experience spanning software development, digital marketing, and management, I bring a unique perspective to every project.
 
 ---
 
@@ -38,7 +38,7 @@ My technical skills include frontend technologies like HTML, CSS, JavaScript, Ty
 ### 📅 Stealth AI Company
 As Senior Software Engineer, I established robust CI/CD pipelines using GitHub Actions, significantly improving deployment reliability and team velocity. I also implemented the Cronofy API integration with their Node.js backend, creating a foundation for scalable calendar functionality in preparation for future user growth.
 
-### ♿ Accessibility Initiative at Zappos
+### ♿ Accessibility Initiative at Zappos.com (owned by Amazon.com)
 Developed critical accessibility improvements for Zappos.com's search functionality, ensuring screen readers properly announced product badge information like "new" and "bestseller." Implemented comprehensive testing protocols to verify screen reader compatibility, helping make the shopping experience more inclusive for visually impaired users.
 
 ### ⚙️ Workflow Automation
@@ -63,6 +63,8 @@ I believe creativity and anxiety exist on the same spectrum—when we reduce one
 I believe the best work comes from clear communication and mutual respect. I'm currently dedicating my energy to my primary projects but am always interested in hearing from fellow builders and potential partners who share a similar ethos.
 
 If you have a project that aligns with my work in automation, accessibility, or creative tooling, please reach out via email. A brief, thoughtful introduction is the best way to start a conversation.
+
+**To get updates about my projects please sign up for my newsletter:** [newsletter.pythonessprogrammer.com](newsletter.pythonessprogrammer.com) 
 
 
 - **Email:** [jobs@amanda-nelson.com](mailto:jobs@amanda-nelson.com)
